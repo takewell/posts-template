@@ -1,0 +1,8 @@
+{
+  "name": "posts",
+  "description": "posts-template",
+  "repository": "https://github.com/takewell/posts-template",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}

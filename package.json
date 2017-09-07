@@ -1,7 +1,7 @@
 {
-  "name": "secret-board",
+  "name": "posts",
   "version": "1.0.0",
-  "description": "匿名掲示板",
+  "description": "posts-template",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -16,5 +16,8 @@
     "pg": "^7.3.0",
     "pg-hstore": "^2.3.2",
     "sequelize": "^4.8.0"
+  },
+  "engines": {
+    "node": "v7.1.0"
   }
 }
