@@ -1,3 +1,3 @@
 # Posts-template
 
-node.js で掲示板とか作る場合のテンプレート
+node.js で掲示板などを作る場合のテンプレート
